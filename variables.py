@@ -11,3 +11,4 @@ print("Currently a student:" , is_student)
 print("Full name uppercase: ", first_name.upper(), last_name.upper())
 print("Name lenght:", len(first_name) + len(last_name))
 print("Greetings my name is", first_name, last_name, "and I am", age, "years old")
+
