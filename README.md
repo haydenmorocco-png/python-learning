@@ -15,3 +15,17 @@ Documenting my daily Python practice
 - bmi_calculator.py: nested conditionals, two unit systems
 - CS50P Problem Set 0: indoor_voice.py, playback_speed.py
 - decision_machine.py: week 2 review program
+
+## Week 3 — Completed
+- loops_intro.py: for loops, range(), step, countdown, times table
+- while_loops.py: while loops, counter, password gate with break/else
+- nested_loops.py: multiplication table grid, star triangle, number pyramid
+- fizzbuzz_plus.py: modulo operator, FizzBuzz, sum of multiples, count
+- Project 1 (projects/guessing-game/): number guessing game with difficulty levels and input validation
+
+## Week 4 — Completed
+- functions_intro.py: parameters, return values, functions calling functions
+- functions_advanced.py: default params, multiple return values, docstrings
+- tip_calculator_v2.py: tip calculator refactored into clean functions with input validation
+- CS50P Problem Set 1: deep_thought.py, home_federal.py
+- unit_converter.py: Phase 1 capstone — menu-driven converter with functions and loops
