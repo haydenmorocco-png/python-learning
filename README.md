@@ -29,3 +29,10 @@ Documenting my daily Python practice
 - tip_calculator_v2.py: tip calculator refactored into clean functions with input validation
 - CS50P Problem Set 1: deep_thought.py, home_federal.py
 - unit_converter.py: Phase 1 capstone — menu-driven converter with functions and loops
+
+## Week 5 — Completed
+- lists_intro.py, list_comprehensions.py, student_scores.py
+- student_score_tracker.py: sorting, grades, rankings, stats
+- word_counter_v1.py: foundational NLP technique
+- list_comprehensions.py: filtering, transforming, data cleaning
+- lotto_simulator.py: random, lists, functions combined
