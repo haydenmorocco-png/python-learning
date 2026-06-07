@@ -1,9 +1,0 @@
-def bill_input():
-    try:
-        bill_total = float(input("Enter the bill total ($):"))
-    except ValueError:
-        print("Please enter a valid number")
-        bill_input()
-    return bill_total
-
-bill_input()
