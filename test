@@ -1,0 +1,14 @@
+import random
+Winning_numbers = [4, 12, 23, 31, 38, 47]
+
+def number_of_tickets():
+    while True:
+        number_of_tickets = input("How many tickets would you like ($2 per ticket): ")
+        try:
+            num_of_ticks = int(number_of_tickets)
+            return num_of_ticks
+        except ValueError:
+            print("Enter a valid number of tickets: ")
+
+num_of_ticks = number_of_tickets()
+print(num_of_ticks)
