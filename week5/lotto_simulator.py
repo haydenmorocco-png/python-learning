@@ -56,4 +56,7 @@ def main():
     print(f"Total won: ${prize_money}")
     print(f"Net result: ${prize_money - (num_of_ticks * 2)}")
 
-main()
+while True:
+    main()
+    if input("Do you want to play again (yes/no):") != "yes":
+        break

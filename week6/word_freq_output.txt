@@ -1,0 +1,15 @@
+artificial  4 
+intelligence  4 
+the         4 
+learning    3 
+data        3 
+neural      3 
+networks    3 
+better      3 
+is          2 
+machine     2 
+subset      2 
+of          2 
+to          2 
+human       2 
+brain       2 
